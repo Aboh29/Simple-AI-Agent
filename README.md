@@ -1,12 +1,7 @@
 ## Status
 
-README.md  (Status section, edited directly on main)
-## Status
 
-
-Core agent loop, memory, and tools are working. Logging and a CLI
-polish pass are in progress on feature branches.
-
-
-
+v1.0.0 - Complete. The agent supports a conversation loop, in-memory
+history, two tools (calculator and clock), persistent file logging,
+a help command, and graceful error handling.
 
